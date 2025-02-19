@@ -1,14 +1,16 @@
 [
   {"name" : "Shriyansh",
-    "email" : "gshriyansh7222@gmail.org"
+    "email" : "gshriyansh7222@gmail.org",
+    "age" : 27
   },
   {
     "name" : "Himanshu",
-    "email" : "himanshu7322@gmail.com"
+    "email" : "himanshu7322@gmail.com",
+    "age" : 30
   },
   {
     "name" : "Siddhart",
-    "email" : "sid22@gmail.com"
+    "email" : "sid22@gmail.com",
+    "age" : 21
   }
-
 ]
