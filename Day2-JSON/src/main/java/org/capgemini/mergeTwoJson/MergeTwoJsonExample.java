@@ -26,7 +26,7 @@ public class MergeTwoJsonExample {
         // Iterate over fields and add them to node2
         while (iterator.hasNext()) {
             Map.Entry<String, JsonNode> field = iterator.next();
-            node2.set(field.getKey(), field.getValue()); 
+            node2.set(field.getKey(), field.getValue());
         }
 
         // Convert the merged JSON object to a string
